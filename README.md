@@ -1,4 +1,4 @@
-- 👋 Hi, We are @zureforce
+- 👋 Hi, We are @zureforce - IT Consulting, Staffing and custom Software solutions provider
 - 👀 We are interested in developing innovative projects and give community the software solutions
 - 🌱 We are currently in idea-development phase with great project ideas
 - 💞️ We are looking to incubate on three of our great projects
