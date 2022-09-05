@@ -2,7 +2,7 @@
 - 👀 We are interested in developing innovative projects and give community the software solutions
 - 🌱 We are currently in idea-development phase with great project ideas
 - 💞️ We are looking to incubate on three of our great projects
-- 📫 How to reach me ... info@zureforce.com
+- 📫 How to reach us ... info@zureforce.com
 
 <!---
 zureforce/zureforce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
